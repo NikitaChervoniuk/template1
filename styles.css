@@ -83,3 +83,22 @@
     height: 260px;
     border-radius: 7px;
 }
+
+.footer div {
+    text-align: center;   
+    padding-bottom: 15px; 
+}
+
+.footer {
+    width: 100%;    
+    border-top: 1px solid #F0F0F0;
+    margin-top: 26px;
+    padding: 24px;
+}
+
+/* .footer .icons {
+    padding-bottom: 0; 
+} */
+ .footer div:last-child {
+    padding-bottom: 0; 
+ }
